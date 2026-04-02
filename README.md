@@ -1,22 +1,23 @@
-# Andres Rios | Full-Stack Developer
-*Transforming complex logic into seamless digital experiences.*
+# Andres Rios | Python Backend & AI Integration
+*Transforming complex logic into scalable, intelligence-driven solutions.*
 
-Software Engineer bridging high-level project management with scalable backend architecture. Specialized in crafting robust, user-centric web applications and applying clean code principles.
+Software Engineer pivoting towards Python backend architectures and AI implementation. I combine project management experience with a deep focus on backend architecture, applying the clean code principles learned through rigorous curricula like Harvard's CS50x.
 
-**CS50x Harvard** • **The Odin Project** • **Full-Stack Specialist**
+**CS50x Harvard** • **University of Helsinki Python MOOC** • **Full-Stack Specialist**
 
 ---
 
 ### Current Focus
-Engineering **Riba de Rivers**, a full-stack vacation rental platform. Architecting secure payment flows via **Stripe API**, real-time database integrations with **Supabase**, and a robust **Flask** backend.
+* **Building AI-Ready Backends:** Currently deep-diving into the Python ecosystem to develop scalable APIs and integrate LLM capabilities into functional products.
+* **Riba de Rivers:** Engineering a full-stack vacation rental platform. I’m architecting secure payment flows via Stripe API, real-time data handling with Supabase, and a robust Flask backend.
 
 ---
 
 ### Tech Stack
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
   <img width="12" />
@@ -34,9 +35,9 @@ Engineering **Riba de Rivers**, a full-stack vacation rental platform. Architect
 ---
 
 ### About Me
-* **Focus:** Clean architecture and performance optimization.
-* **Exploring:** Advanced JavaScript patterns and system design.
-* **Background:** Former professional film director (5+ years). I leverage that experience to orchestrate pixel-perfect UIs and cohesive user journeys.
+* **Focus:** Scalable backend systems and the practical integration of AI.
+* **Exploring:** Advanced Python patterns, RAG (Retrieval-Augmented Generation), and efficient system design.
+* **Background:** Former independent audiovisual producer (+5 years). I leverage my experience in project leadership to orchestrate pixel-perfect UIs and cohesive user journeys with technical precision.
 
 ---
 
